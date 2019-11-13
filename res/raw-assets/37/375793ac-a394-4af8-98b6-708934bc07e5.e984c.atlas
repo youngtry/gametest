@@ -1,0 +1,104 @@
+
+qiandaochenggong.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sucai/QDCG_01
+  rotate: true
+  xy: 832, 661
+  size: 313, 76
+  orig: 313, 76
+  offset: 0, 0
+  index: -1
+sucai/QDCG_02
+  rotate: true
+  xy: 652, 186
+  size: 788, 178
+  orig: 800, 800
+  offset: 12, 314
+  index: -1
+sucai/foguang
+  rotate: false
+  xy: 2, 316
+  size: 648, 658
+  orig: 648, 658
+  offset: 0, 0
+  index: -1
+sucai/huan_01
+  rotate: false
+  xy: 2, 2
+  size: 312, 312
+  orig: 400, 400
+  offset: 44, 44
+  index: -1
+sucai/qiandaochenggong/qiandaochenggong_00
+  rotate: false
+  xy: 316, 5
+  size: 136, 75
+  orig: 800, 800
+  offset: 243, 363
+  index: -1
+sucai/qiandaochenggong/qiandaochenggong_01
+  rotate: false
+  xy: 316, 82
+  size: 168, 76
+  orig: 800, 800
+  offset: 243, 362
+  index: -1
+sucai/qiandaochenggong/qiandaochenggong_02
+  rotate: true
+  xy: 832, 190
+  size: 203, 76
+  orig: 800, 800
+  offset: 243, 362
+  index: -1
+sucai/qiandaochenggong/qiandaochenggong_03
+  rotate: false
+  xy: 316, 160
+  size: 230, 76
+  orig: 800, 800
+  offset: 246, 362
+  index: -1
+sucai/qiandaochenggong/qiandaochenggong_04
+  rotate: false
+  xy: 316, 238
+  size: 266, 76
+  orig: 800, 800
+  offset: 255, 362
+  index: -1
+sucai/qiandaochenggong/qiandaochenggong_05
+  rotate: true
+  xy: 832, 395
+  size: 264, 76
+  orig: 800, 800
+  offset: 284, 362
+  index: -1
+sucai/qiandaochenggong/qiandaochenggong_06
+  rotate: true
+  xy: 910, 736
+  size: 238, 76
+  orig: 800, 800
+  offset: 319, 362
+  index: -1
+sucai/qiandaochenggong/qiandaochenggong_07
+  rotate: true
+  xy: 910, 531
+  size: 203, 76
+  orig: 800, 800
+  offset: 354, 362
+  index: -1
+sucai/qiandaochenggong/qiandaochenggong_08
+  rotate: true
+  xy: 910, 362
+  size: 167, 76
+  orig: 800, 800
+  offset: 390, 362
+  index: -1
+sucai/qiandaochenggong/qiandaochenggong_09
+  rotate: true
+  xy: 910, 232
+  size: 128, 76
+  orig: 800, 800
+  offset: 429, 362
+  index: -1
